@@ -13,3 +13,6 @@ class jogador:
 
     def __str__(self):
         return f"{self.nome}, the {self.classe['nome']}"
+
+#planos, add inimigos ou fazer uma bag para o jogador usa item, com variaves de item dentro de outro script, criar profixo e sofixo de inimigo radom
+# como se fosse bot, e não como npcs, da eles habilidade tbm radom, add coisas do tipo espada... bag de salario, sell or buy para acrescenta melhor o rpg
