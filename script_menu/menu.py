@@ -15,7 +15,6 @@ else:
 opicao = int(input("[1] - Aperte 1 para continuar. Se você não quer continuar com este nome, aperte qualquer tecla: "))
 
 if opicao == 1:
-    # Atributos das classes
     classes = {
         1: {
             "nome": "Mago",
