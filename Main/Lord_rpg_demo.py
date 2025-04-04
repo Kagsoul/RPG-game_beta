@@ -1,8 +1,8 @@
-input(" voce precisa mante seu reino e a enconomia dele em equilibrio, terão eventos, e cada evento pode acontecer") 
-input("será que voce vai consegui admistrar o seu reino de forma correta ou sera apenas mais um reino caido")
-input("cuidado!!")
-input('!')
-input("obrigado por jogar")
+input(" voce precisa mante seu reino e a enconomia dele em equilibrio, terão eventos, e cada evento pode acontecer\n") 
+input("será que voce vai consegui admistrar o seu reino de forma correta ou sera apenas mais um reino caido\n")
+input("cuidado!!\n")
+input('!\n')
+input("obrigado por jogar\n")
 
 class Reino:
     def __init__(self, nome):
